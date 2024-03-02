@@ -1,0 +1,2 @@
+# this is worker 2
+wordpress ansible_host=ip-172-31-46-243
